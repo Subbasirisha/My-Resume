@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    margin: 10px;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4; /* Light gray background */
     transition: background-color 0.3s; /* Smooth background color transition */
